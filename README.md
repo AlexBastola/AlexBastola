@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About Me:
-I'm a teen interested in full stack web development, mobile app development, and Linux. I'm willing to expand my horizons weather that be learning new programming languages, libraries, or new subjects in computer science 
+I'm a teen interested in full stack web development, mobile app development, and Linux. I'm willing to expand my horizons whether that be learning new programming languages, libraries, or new subjects in computer science 
 
 ## Contacts
 <a href="https://discord.com/users/931002130230280192">
